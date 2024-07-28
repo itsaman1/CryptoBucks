@@ -1,14 +1,5 @@
 
 
-Here are the starter code files👇: <br />
-https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-[Build Crypto Screener Application in React JS](https://devdreaming.com/videos/build-crypto-screener-app-with-react-tailwind-css)
-[![YouTube Video Views](https://img.shields.io/youtube/views/JPlVb3t6kx8?style=social)](https://youtu.be/cT160dOzpGY)<br />
-
-<h3 align="left">▶ Support me via:</h3><br />
-<p><a href="https://www.buymeacoffee.com/CodeBucks" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br />
 
 ### Images of The Crypto Screener Website:
 
